@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/golfers-gully-progress-check/static/css/main.06c453ff.css",
+    "main.js": "/golfers-gully-progress-check/static/js/main.f5c95daf.js",
+    "static/media/jacks.jpg": "/golfers-gully-progress-check/static/media/jacks.a5f54c262fdcb9e5a163.jpg",
+    "static/media/the-hills.jpg": "/golfers-gully-progress-check/static/media/the-hills.4865ae3d0b88a595454c.jpg",
+    "index.html": "/golfers-gully-progress-check/index.html",
+    "main.06c453ff.css.map": "/golfers-gully-progress-check/static/css/main.06c453ff.css.map",
+    "main.f5c95daf.js.map": "/golfers-gully-progress-check/static/js/main.f5c95daf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06c453ff.css",
+    "static/js/main.f5c95daf.js"
+  ]
+}
